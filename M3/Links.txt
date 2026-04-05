@@ -1,0 +1,1 @@
+https://github.com/MLOPS-test/resources/blob/main/Material/Transformer_Encoder_Explained.md

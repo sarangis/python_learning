@@ -1,0 +1,2 @@
+https://mbrenndoerfer.com/writing/chinchilla-scaling-laws-compute-optimal-llm-training
+https://narlabharath.github.io/nn-evolution-explainer/
